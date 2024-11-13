@@ -1,7 +1,10 @@
 # Nghiên Cứu Data Warehouse
 
+![Data Warehouse Architecture](assets/images/data-warehouse.webp)
+
 ## Giới thiệu
 Data Warehouse là một kho lưu trữ tập trung được thiết kế để lưu trữ, quản lý và phân tích khối lượng lớn dữ liệu có cấu trúc và bán cấu trúc. Nó đóng vai trò là một thành phần quan trọng trong phân tích và thông minh kinh doanh, giúp các tổ chức đưa ra quyết định dựa trên dữ liệu lịch sử.
+
 
 ## Kiến trúc
 Data Warehouse thường tuân theo một kiến trúc cụ thể, bao gồm:

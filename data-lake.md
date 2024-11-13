@@ -1,5 +1,7 @@
 # Hồ Dữ Liệu (Data Lake)
 
+![Data Lake](assets/images/OIP.jpg)
+
 ## Tổng quan
 Hồ dữ liệu là một kho lưu trữ tập trung cho phép bạn lưu trữ tất cả dữ liệu có cấu trúc và phi cấu trúc ở bất kỳ quy mô nào. Khác với các kho dữ liệu truyền thống, hồ dữ liệu có thể xử lý khối lượng lớn dữ liệu thô ở định dạng gốc cho đến khi cần phân tích.
 

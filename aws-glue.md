@@ -1,4 +1,7 @@
 # AWS Glue
+
+![AWS Glue](assets/images/aws-glue.png)
+
 ## Tổng quan
 AWS Glue là một dịch vụ ETL (trích xuất, chuyển đổi và tải) được quản lý hoàn toàn, giúp dễ dàng chuẩn bị và tải dữ liệu cho phân tích. Nó tự động khám phá và lập hồ sơ dữ liệu của bạn, đề xuất và tạo mã ETL, đồng thời xử lý tất cả cơ sở hạ tầng cơ bản.
 

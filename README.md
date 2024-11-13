@@ -1,5 +1,7 @@
 # Dự Án Nghiên Cứu Dữ Liệu
 
+![ETL](assets/images/readme.png)
+
 ## Giới thiệu
 Chào mừng đến với Dự Án Nghiên Cứu Dữ Liệu! Repository này chứa tập hợp các tài liệu nghiên cứu tập trung vào các hệ thống và quy trình quản lý dữ liệu khác nhau.
 

@@ -1,5 +1,7 @@
 # Dữ Liệu Có Cấu Trúc (Structured Data)
 
+![Structured Data](assets/images/data-structured.jpg)
+
 ## Giới thiệu
 Dữ liệu có cấu trúc là thông tin được tổ chức theo một schema hoặc mô hình dữ liệu xác định. Loại dữ liệu này thường được lưu trữ trong các cơ sở dữ liệu quan hệ và tuân theo các quy tắc định dạng nghiêm ngặt.
 

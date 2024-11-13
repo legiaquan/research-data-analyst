@@ -1,5 +1,7 @@
 # ETL (Trích xuất, Chuyển đổi, Tải)
 
+![ETL](assets/images/etl.jpg)
+
 ## Tổng quan
 ETL là viết tắt của Extract, Transform, Load (Trích xuất, Chuyển đổi, Tải), là một quy trình tích hợp dữ liệu được sử dụng để kết hợp dữ liệu từ nhiều nguồn thành một kho dữ liệu nhất quán duy nhất, sau đó được tải vào kho dữ liệu hoặc các kho lưu trữ dữ liệu khác.
 
