@@ -1,28 +1,30 @@
-# Structured Data
+# Dữ Liệu Có Cấu Trúc (Structured Data)
 
-## Definition
-Structured data refers to any data that resides in a fixed field within a record or file. It is highly organized and easily searchable in relational databases and spreadsheets.
+## Giới thiệu
+Dữ liệu có cấu trúc là thông tin được tổ chức theo một schema hoặc mô hình dữ liệu xác định. Loại dữ liệu này thường được lưu trữ trong các cơ sở dữ liệu quan hệ và tuân theo các quy tắc định dạng nghiêm ngặt.
 
-## Characteristics
-- **Format**: Structured data is typically stored in tabular formats, such as rows and columns.
-- **Schema**: It adheres to a predefined schema, which defines the structure of the data, including data types and relationships.
-- **Accessibility**: It can be easily accessed and analyzed using SQL (Structured Query Language) and other querying languages.
+## Đặc điểm
+- Được tổ chức trong rows và columns
+- Có schema được xác định trước
+- Dễ dàng tìm kiếm và phân tích
+- Thường được lưu trữ trong SQL databases
+- Có quan hệ rõ ràng giữa các phần tử dữ liệu
 
-## Examples
-- **Databases**: Relational databases like MySQL, PostgreSQL, and Oracle.
-- **Spreadsheets**: Excel files and Google Sheets.
-- **Data Tables**: Any structured datasets that can be represented in a table format.
+## Ví dụ
+- Bảng trong cơ sở dữ liệu SQL
+- Bảng tính Excel
+- Dữ liệu giao dịch
+- Thông tin khách hàng có cấu trúc
 
-## Organization
-Structured data is organized in a way that makes it easy to enter, query, and analyze. Common organizational methods include:
-- **Tables**: Data is stored in rows and columns.
-- **Keys**: Primary and foreign keys are used to establish relationships between different tables.
-- **Indexes**: Indexes are created to improve the speed of data retrieval operations.
+## Lợi ích
+- Dễ dàng tổ chức và quản lý
+- Hiệu quả trong việc truy vấn
+- Tính nhất quán cao
+- Phù hợp cho phân tích dữ liệu
 
-## Use Cases
-- **Business Intelligence**: Analyzing sales data to make informed business decisions.
-- **Reporting**: Generating structured reports for stakeholders.
-- **Data Analysis**: Performing statistical analysis on structured datasets.
-
-## Conclusion
-Structured data plays a crucial role in data management and analysis, providing a clear and organized way to store and retrieve information. Its predictable format and ease of use make it a preferred choice for many applications in various industries.
+## Công nghệ liên quan
+- MySQL
+- PostgreSQL
+- Oracle Database
+- Microsoft SQL Server
+- IBM Db2
