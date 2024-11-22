@@ -25,7 +25,7 @@ Mục đích của dự án này là cung cấp hiểu biết toàn diện về 
 - [Treasure_Training_20112024](https://1drv.ms/v/s!Ar6KZyYMZxSF3BSdmymIH1uX6fV9?e=MtMcFV)  
 
 ### Section 3:
-- [Treasure_Training_22112024](https://1drv.ms/v/s!Ar6KZyYMZxSF3BjfVZSN2ibqyAe4?e=dXnSip)  
+- [Treasure_Training_21112024](https://1drv.ms/v/s!Ar6KZyYMZxSF3BjfVZSN2ibqyAe4?e=dXnSip)  
 
 ### Section 4:
 - [Treasure_Training_22112024](https://1drv.ms/u/s!Ar6KZyYMZxSF3BaojPshdo23lArY?e=Ki6a1U)
