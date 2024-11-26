@@ -21,14 +21,20 @@ Mục đích của dự án này là cung cấp hiểu biết toàn diện về 
 - **[AWS Glue](/1-overview/aws-glue.md)**: Tìm hiểu về AWS Glue, một dịch vụ ETL được quản lý hoàn toàn giúp đơn giản hóa việc chuẩn bị và tải dữ liệu cho phân tích.
 
 ### Section 2:
-- [Demo Glue - MinhVN](https://1drv.ms/v/s!Ar6KZyYMZxSF3BXcNcqRubW5tO8Z?e=v0eOjn)  
-- [Treasure_Training_20112024](https://1drv.ms/v/s!Ar6KZyYMZxSF3BSdmymIH1uX6fV9?e=MtMcFV)  
+- [Demo Glue - MinhVN](https://1drv.ms/v/s!Ar6KZyYMZxSF3BXcNcqRubW5tO8Z?e=v0eOjn)
+- [Treasure_Training_20112024](https://1drv.ms/v/s!Ar6KZyYMZxSF3BSdmymIH1uX6fV9?e=MtMcFV)
 
 ### Section 3:
-- [Treasure_Training_21112024](https://1drv.ms/v/s!Ar6KZyYMZxSF3BjfVZSN2ibqyAe4?e=dXnSip)  
+- [Treasure_Training_21112024](https://1drv.ms/v/s!Ar6KZyYMZxSF3BjfVZSN2ibqyAe4?e=dXnSip)
 
 ### Section 4:
-- [Treasure_Training_22112024](https://1drv.ms/u/s!Ar6KZyYMZxSF3BaojPshdo23lArY?e=Ki6a1U)
+- [Treasure_Training_23112024](https://1drv.ms/u/s!Ar6KZyYMZxSF3BaojPshdo23lArY?e=Ki6a1U)
+
+### Section 5:
+- [Treasure_Training_25112024](https://1drv.ms/u/s!Ar6KZyYMZxSF3B-cOga7TpDGMSZ0?e=KnOh9a)
+
+### Section 6:
+- [Treasure_Training_26112024](https://1drv.ms/v/s!Ar6KZyYMZxSF3CGFFHLk4B_hwVWM?e=SOfpUc)
 
 ## Bắt đầu
 Để bắt đầu, chỉ cần nhấp vào các liên kết ở trên để truy cập các chủ đề cụ thể bạn quan tâm. Mỗi file chứa thông tin chi tiết để nâng cao hiểu biết của bạn về hệ thống quản lý dữ liệu.
