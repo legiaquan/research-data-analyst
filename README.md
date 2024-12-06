@@ -39,6 +39,9 @@ Mục đích của dự án này là cung cấp hiểu biết toàn diện về 
 ### Section 7:
 - [Treasure_Training_27112024](https://1drv.ms/v/s!Ar6KZyYMZxSF3C0tUCFrBAeXba7x?e=NKmZU0)
 
+### Section 8:
+- [Treasure_Training_27112024](https://1drv.ms/v/s!Ar6KZyYMZxSF3C-KU0uSxrijxtHL?e=WjSJKS)
+
 ## Bắt đầu
 Để bắt đầu, chỉ cần nhấp vào các liên kết ở trên để truy cập các chủ đề cụ thể bạn quan tâm. Mỗi file chứa thông tin chi tiết để nâng cao hiểu biết của bạn về hệ thống quản lý dữ liệu.
 
